@@ -1,23 +1,8 @@
-# Welcome to the final exam of Biostatistics 1BI043 Fall 2020!
+
 
 ###############################################################################
-# Instructions:
-#
-# Read carefully.
-# Write your answer below each question. Comment only if requested, otherwise
-# code producing the requested output is enough.
-# Unless otherwise stated, you can use any R function you like in your answers.
-# You have three hours to complete the exam.
 ###############################################################################
-
 ###############################################################################
-# Evaluation:
-#
-# Your teacher will only evaluate this R script.
-# For each question you will get a mark between 0 and 2.
-# There are 15 questions, so the maximum is 30 points. You pass with 18.
-# You pass with distinction with 24.
-# Good luck!
 ###############################################################################
 
 ###############################################################################
