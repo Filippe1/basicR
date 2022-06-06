@@ -1,5 +1,5 @@
 ---
-title: "Graded project"
+title: "R project"
 author: "Filippe Seiz de Filippi"
 output: html_document
 ---
